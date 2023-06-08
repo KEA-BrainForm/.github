@@ -1,7 +1,7 @@
 # BrainForm
 
 ## 뇌파 데이터를 활용한 설문조사 서비스
-
+![KakaoTalk_Photo_2023-06-08-17-26-23](https://github.com/KEA-BrainForm/.github/assets/77061558/95e157c9-382f-4d36-a85f-2b9264aab236)
 ### 개요
 본 서비스(Brain Form)는 뇌파 측정 및 분석 결과를 활용한 설문조사 서비스이다. 아래와 같은 뇌파 측정 기기를 활용하여 사용자의 뇌파를 측정하고, 측정값을 분석 및 활용함으로써 설문 조사의 응답률과 통계 정보의 다양성 및 신뢰성을 크게 향상시킬 수 있다.
 
@@ -26,3 +26,10 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=Ngrok&logoColor=white)
+
+
+## Monolithic Architecture
+![Untitled](https://github.com/rkdejr2321/BLoom_server/assets/77061558/ba04261f-ae83-41cb-95aa-e9a29920dd33)
+
+## Microservices Architecture
+![KakaoTalk_Photo_2023-06-08-17-30-57](https://github.com/rkdejr2321/BLoom_server/assets/77061558/4bcb7353-1c80-40e1-ab91-b646473d0024)
